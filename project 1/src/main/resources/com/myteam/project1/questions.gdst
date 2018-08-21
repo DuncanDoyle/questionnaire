@@ -54,7 +54,14 @@
     <entries/>
   </auditLog>
   <imports>
-    <imports/>
+    <imports>
+      <org.kie.soup.project.datamodel.imports.Import>
+        <type>com.redhat.sso.wizard.domain.Group</type>
+      </org.kie.soup.project.datamodel.imports.Import>
+      <org.kie.soup.project.datamodel.imports.Import>
+        <type>com.redhat.sso.wizard.domain.Question</type>
+      </org.kie.soup.project.datamodel.imports.Import>
+    </imports>
   </imports>
   <packageName>com.myteam.project1</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
