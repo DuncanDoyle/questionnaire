@@ -2,6 +2,12 @@
   <imports>
     <imports>
       <import>
+        <type>com.redhat.sso.wizard.domain.Group</type>
+      </import>
+      <import>
+        <type>com.redhat.sso.wizard.domain.Question</type>
+      </import>
+      <import>
         <type>java.lang.Boolean</type>
       </import>
       <import>
