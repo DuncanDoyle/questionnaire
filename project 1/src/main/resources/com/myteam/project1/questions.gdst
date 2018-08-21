@@ -49,10 +49,10 @@
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
       <width>100</width>
-      <header>ID</header>
+      <header>Group</header>
       <factType>Question</factType>
       <boundName>$q</boundName>
-      <factField>id</factField>
+      <factField>group</factField>
       <type>String</type>
       <isInsertLogical>false</isInsertLogical>
     </insert-fact-column52>
@@ -64,10 +64,10 @@
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
       <width>100</width>
-      <header>Group</header>
+      <header>ID</header>
       <factType>Question</factType>
       <boundName>$q</boundName>
-      <factField>group</factField>
+      <factField>id</factField>
       <type>String</type>
       <isInsertLogical>false</isInsertLogical>
     </insert-fact-column52>
