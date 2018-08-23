@@ -3,17 +3,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>guvnor-m2-repo</id>
-        <url>http://rhdm7-install-rhdmcentr-questionable2.apps.d1.casl.rht-labs.com/maven2/</url>
-        <source>PROJECT</source>
+        <id>local</id>
+        <url>/home/jboss/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>/home/jboss/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>guvnor-m2-repo</id>
+        <url>http://rhdm7-install-rhdmcentr-questionable2.apps.d1.casl.rht-labs.com/maven2/</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
     <repository>
