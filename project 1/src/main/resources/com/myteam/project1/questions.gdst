@@ -587,12 +587,12 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>GivenName</valueString>
+        <valueString>Why are you so happy?</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>GivenName</valueString>
+        <valueString>reason for you rhappiness...</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -607,7 +607,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>true</valueString>
+        <valueString>{Happiness}==true</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
