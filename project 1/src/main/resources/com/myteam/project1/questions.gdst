@@ -690,7 +690,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>{FN}</valueString>
+        <valueString>&quot;{FN}&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
