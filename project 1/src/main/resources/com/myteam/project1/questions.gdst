@@ -326,7 +326,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>{FN]=&quot;{GivenName} {Surname}&quot;</valueString>
+        <valueString>{FN}={GivenName}+&apos; &apos;+{Surname}</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
