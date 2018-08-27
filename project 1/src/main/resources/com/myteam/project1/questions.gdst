@@ -397,17 +397,17 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>FirstName</valueString>
+        <valueString>Surname</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>First Name</valueString>
+        <valueString>Surname</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>First Name</valueString>
+        <valueString>Family Name</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
