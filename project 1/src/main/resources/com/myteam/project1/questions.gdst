@@ -352,7 +352,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>FullName={GivenName}+&apos; &apos;+{Surname}</valueString>
+        <valueString>{FN}={GivenName}+&apos; &apos;+{Surname}</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -443,7 +443,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>{FN}={GivenName}+&apos; &apos;+{Surname}</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
