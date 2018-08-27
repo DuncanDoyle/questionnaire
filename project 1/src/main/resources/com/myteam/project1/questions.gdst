@@ -604,7 +604,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>{Happiness}==true</valueString>
+        <valueString>{Happiness}&gt;5</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
