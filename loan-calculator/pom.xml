@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myteam</groupId>
-  <artifactId>loan-calculator</artifactId>
+  <artifactId>loan-interest-calculator</artifactId>
   <version>1.0.0</version>
-  <name>loan-calculator</name>
+  <name>loan-interest-calculator</name>
   <description></description>
   <repositories>
     <repository>
