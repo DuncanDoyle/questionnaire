@@ -756,7 +756,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Happy Page</valueString>
+        <valueString>Result</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
