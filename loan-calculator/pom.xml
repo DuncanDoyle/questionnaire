@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myteam</groupId>
-  <artifactId>loan-interest-calculator</artifactId>
+  <artifactId>loan-interest-rate</artifactId>
   <version>1.0.0</version>
   <name>loan-interest-calculator</name>
   <description></description>
