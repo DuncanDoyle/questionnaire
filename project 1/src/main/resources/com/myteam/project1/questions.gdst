@@ -756,7 +756,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Custom Control Page</valueString>
+        <valueString>Happy Page</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -766,7 +766,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Custom server-side control</valueString>
+        <valueString>Do you like this custom rule-driven control?</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -857,7 +857,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Full Name</valueString>
+        <valueString>Calculated field with your Full Name</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
